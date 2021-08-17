@@ -10,5 +10,8 @@ Markov chain is a concept that uses graph theory. At each node is a state - whic
 In this particular project, I have used a bigram chain, just to ease the complexity. However, using a Markov Chain causes a certain amount of repetition (especially with a bigram model) but its still fun, and there isnt a need to do too deep into ML or NLP. Lyrics prediction can also be done using LSTM or other Recurrent Neural Networks.
 
 ## Results
-My favourite artist is Hozier, and he also hasn't released any new music. So naturally, I tested this with his style, and the lyrics came out pretty good:  
-![Hozier lyric(1)](1.png "Lyric 1")
+My favourite artist is Hozier, and he also hasn't released any new music. So naturally, I tested this with his style, and the lyrics came out pretty good: 
+  
+  ![Hozier lyric(1)](1.png "Lyric 1")  
+  ![Hozier lyric(2)](2.png "Lyric 2")
+  ![Hozier lyric(3)](3.png "Lyric 3")
