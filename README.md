@@ -1,2 +1,4 @@
-# lyrics-generation-using-ML
-Program for generating new lyrics of any artist, using Markov Chain
+# Lyrics Generation : An NLP project
+What if we had the ability to predict new lyrics of your favourite artists in their style?  
+Turns out, we can - with the help of Machine Learning.
+
